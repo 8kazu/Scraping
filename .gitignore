@@ -1,0 +1,20 @@
+# macOS関連
+.DS_Store
+.Trash/
+
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# IDEやエディタ関連
+.vscode/
+.idea/
+
+# その他
+*.log
+*.swp
+node_modules/
+
